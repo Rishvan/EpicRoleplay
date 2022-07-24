@@ -18,8 +18,7 @@
 <br />
 
 ## **Links:**
-**Discord:** https://dsc.gg/equitygaming <br/>
-**SERVER IP:** `samp.equitygaming.net:7777` <br/>
+**Discord:** https://dsc.gg/epic-rp <br/>
 
 <br />
 
