@@ -75,14 +75,14 @@
 ## Settings
 
 <p align="left">
-  <img src="https://github.com/Rishvan/EpicRoleplay/blob/b7a95ca7c5becddbcebd864e11df512dbee1502f/images/settings.jpg" height="auto" width="700px">
+  <img src="https://github.com/Rishvan/EpicRoleplay/blob/b7a95ca7c5becddbcebd864e11df512dbee1502f/images/settings.jpg" height="auto" width="400px">
 </p>
 
 
 ## Joining
 
 <p align="left">
-  <img src="https://github.com/Rishvan/EpicRoleplay/blob/ce12b2711516a632b18e9dc253ec2b2596879df5/images/joining.jpeg" height="auto" width="700px">
+  <img src="https://github.com/Rishvan/EpicRoleplay/blob/ce12b2711516a632b18e9dc253ec2b2596879df5/images/joining.jpeg" height="auto" width="400px">
 </p>
 
 
@@ -91,11 +91,11 @@
 ## In-Game
 
 <p align="left">
-  <img src="https://github.com/Rishvan/EpicRoleplay/blob/4fe3bd4da6523b3121a9b31195ae7f03b8cdfa2a/images/b1.jpeg" height="auto" width="400px">
+  <img src="https://github.com/Rishvan/EpicRoleplay/blob/4fe3bd4da6523b3121a9b31195ae7f03b8cdfa2a/images/b1.jpeg" height="auto" width="600px">
 </p>
 
 <p align="left">
-  <img src="https://github.com/Rishvan/EpicRoleplay/blob/1b4d02b6ed600886a6238acdf24ee3b4d8ff1664/images/b2.jpeg" height="auto" width="400px">
+  <img src="https://github.com/Rishvan/EpicRoleplay/blob/1b4d02b6ed600886a6238acdf24ee3b4d8ff1664/images/b2.jpeg" height="auto" width="600px">
 </p>
 
 
