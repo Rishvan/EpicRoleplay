@@ -1,6 +1,6 @@
 <p align="center">Welcome to the best GTA:SA Multiplayer server in the Kerala!</p>
 
-## <p align="center">[OFFICIAL] GTA:SA E:RP Android Mobile Launcher</p>
+## <p align="center"GTA:SA E:RP Android Mobile Launcher</p>
 <p align="center">
   <img src="https://github.com/Rishvan/EpicRoleplay/blob/e9eb3ecf68a1362d201039a43f6f24de9ec715af/images/epic.png" height="auto" width="300px">
 </p>
@@ -18,12 +18,8 @@
 <br />
 
 ## **Links:**
-**Website:** https://equitygaming.net <br/>
 **Discord:** https://dsc.gg/equitygaming <br/>
-**Facebook** Page: https://facebook.com/EquityGaming2016 <br/>
-**Facebook Group:** https://www.facebook.com/groups/comrpbyequitygaming <br/>
 **SERVER IP:** `samp.equitygaming.net:7777` <br/>
-<img src="http://www.game-state.com/15.235.160.99:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none; height: auto; width: 500px;">
 
 <br />
 
