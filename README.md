@@ -1,6 +1,6 @@
 <p align="center">Welcome to the best GTA:SA Multiplayer server in the Kerala!</p>
 
-## <p align="center"GTA:SA E:RP Android Mobile Launcher</p>
+## <p align="center">GTA:SA E:RP Android Mobile Launcher</p>
 <p align="center">
   <img src="https://github.com/Rishvan/EpicRoleplay/blob/e9eb3ecf68a1362d201039a43f6f24de9ec715af/images/epic.png" height="auto" width="300px">
 </p>
