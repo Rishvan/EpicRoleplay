@@ -9,11 +9,11 @@
 </p>
 
 ## **Epic Roleplay (CROSS-PLATFORM) [PC/Mobile]**
- City of Manila Roleplay is a GTA:SAMP Server run by Equity Gaming that provides an extraordinary experience that transforms their dream into an immersive virtual reality.
+ Epic Roleplay is a GTA:SAMP Server that provides an extraordinary experience that transforms their dream into an immersive virtual reality.
 
 - ✅ GTA:SA Multiplayer
 - ✅ Realtime voice/text chatting
-- ✅ Best GTA SA-MP server in the Philippines
+- ✅ Best GTA SA-MP server in the Kerala
 
 <br />
 
@@ -59,13 +59,13 @@
 # <p align="center">Screenshots</p>
 
 ## Home Screen
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/home%20screen.jpg)
+![information](https://github.com/Rishvan/EpicRoleplay/blob/3a71e7096f11540f862e50716422d89ceb51ce17/images/home%20screen.jpeg)
 
 ## Information
 ![information](https://github.com/Rishvan/EpicRoleplay/blob/343d350a04d8893cf83c8783e42db75313b6756b/images/information.jpg)
 
 ## Servers
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/servers.jpg)
+![information](https://github.com/Rishvan/EpicRoleplay/blob/3a71e7096f11540f862e50716422d89ceb51ce17/images/servers.jpg)
 
 ## Settings
 ![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/settings.jpg)
