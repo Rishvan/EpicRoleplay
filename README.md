@@ -68,7 +68,7 @@
 ![information](https://github.com/Rishvan/EpicRoleplay/blob/3a71e7096f11540f862e50716422d89ceb51ce17/images/servers.jpg)
 
 ## Settings
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/settings.jpg)
+![information](https://github.com/Rishvan/EpicRoleplay/blob/b7a95ca7c5becddbcebd864e11df512dbee1502f/images/settings.jpg)
 
 ## Joining
 ![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/joining.jpg)
