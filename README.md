@@ -62,7 +62,7 @@
 ![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/home%20screen.jpg)
 
 ## Information
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/information.jpg)
+![information](https://github.com/Rishvan/EpicRoleplay/blob/343d350a04d8893cf83c8783e42db75313b6756b/images/information.jpg)
 
 ## Servers
 ![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/servers.jpg)
