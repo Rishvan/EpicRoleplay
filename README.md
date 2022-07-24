@@ -76,7 +76,7 @@
 ---
 
 ## In-Game
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_1.jpg)
+![information](https://github.com/Rishvan/EpicRoleplay/blob/4fe3bd4da6523b3121a9b31195ae7f03b8cdfa2a/images/b1.jpeg)
 
 ![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_2.jpg)
 
